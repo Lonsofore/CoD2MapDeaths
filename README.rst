@@ -26,7 +26,7 @@ And what can I do with it?
 
 E.g. this:
 
-.. image:: https://github.com/lonsofore/cod2mapdeaths/heatmaps/mp_toujane.png
+.. image:: https://raw.githubusercontent.com/Lonsofore/CoD2MapDeaths/master/heatmaps/mp_toujane.jpg
 
 
 License
